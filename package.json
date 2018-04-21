@@ -1,0 +1,23 @@
+{
+  "name": "iochat",
+  "version": "1.0.0",
+  "description": "Online Chat Uygulaması",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chat",
+    "apps",
+    "chat",
+    "uygulaması",
+    "nodejs",
+    "chat"
+  ],
+  "author": "İsmail Deniz",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  }
+}
