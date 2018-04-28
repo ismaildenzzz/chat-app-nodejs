@@ -17,7 +17,10 @@
   "author": "İsmail Deniz",
   "license": "ISC",
   "dependencies": {
-    "socket.io": "*",
-    "express": "*"
+    "ejs": "^2.5.9",
+    "express": "*",
+    "mongodb": "^3.0.7",
+    "mongoose": "^5.0.16",
+    "socket.io": "*"
   }
 }
